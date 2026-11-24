@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Scene Assembly"
+  short_description: "Organize large modular Blender scenes"
+  default_prompt: "Use $blender-scene-assembly to handle the scene assembly for this Blender request."

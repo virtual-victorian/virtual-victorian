@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender General Modeling"
+  short_description: "General-purpose Blender modeling workflow"
+  default_prompt: "Use $blender-general-modeling to handle the general modeling for this Blender request."

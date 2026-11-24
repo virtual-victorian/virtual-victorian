@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender UV Unwrapping"
+  short_description: "Create production UV layouts and lightmaps"
+  default_prompt: "Use $blender-uv-unwrapping to handle the uv unwrapping for this Blender request."

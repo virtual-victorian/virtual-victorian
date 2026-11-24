@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Environment Modeling"
+  short_description: "Build environments, terrain, and modular kits"
+  default_prompt: "Use $blender-environment-modeling to handle the environment modeling for this Blender request."

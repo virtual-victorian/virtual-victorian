@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Procedural Modeling"
+  short_description: "Build Geometry Nodes and modifier generators"
+  default_prompt: "Use $blender-procedural-modeling to handle the procedural modeling for this Blender request."

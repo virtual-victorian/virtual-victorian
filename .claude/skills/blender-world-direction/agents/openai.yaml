@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender World Direction"
+  short_description: "Define coherent setting and world language"
+  default_prompt: "Use $blender-world-direction to handle the world direction for this Blender request."

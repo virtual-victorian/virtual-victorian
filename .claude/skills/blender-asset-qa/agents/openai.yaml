@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Asset QA"
+  short_description: "Run the final Blender ship-readiness review"
+  default_prompt: "Use $blender-asset-qa to handle the asset qa for this Blender request."

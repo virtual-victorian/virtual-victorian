@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Asset Optimization"
+  short_description: "Optimize assets for real-time performance"
+  default_prompt: "Use $blender-asset-optimization to handle the asset optimization for this Blender request."

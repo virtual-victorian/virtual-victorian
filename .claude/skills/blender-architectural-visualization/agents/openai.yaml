@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Architectural Visualization"
+  short_description: "Create polished interior and exterior visuals"
+  default_prompt: "Use $blender-architectural-visualization to handle the architectural visualization for this Blender request."

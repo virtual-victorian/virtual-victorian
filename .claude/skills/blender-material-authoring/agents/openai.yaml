@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Material Authoring"
+  short_description: "Build PBR, stylized, and procedural materials"
+  default_prompt: "Use $blender-material-authoring to handle the material authoring for this Blender request."

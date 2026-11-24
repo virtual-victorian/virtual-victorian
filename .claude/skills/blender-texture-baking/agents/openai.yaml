@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Texture Baking"
+  short_description: "Bake atlases and engine-ready texture maps"
+  default_prompt: "Use $blender-texture-baking to handle the texture baking for this Blender request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Prop Modeling"
+  short_description: "Build grounded everyday and hero props"
+  default_prompt: "Use $blender-prop-modeling to handle the prop modeling for this Blender request."

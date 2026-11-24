@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Set Dressing"
+  short_description: "Place props for composition and storytelling"
+  default_prompt: "Use $blender-set-dressing to handle the set dressing for this Blender request."

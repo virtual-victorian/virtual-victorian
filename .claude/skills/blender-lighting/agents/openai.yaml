@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Lighting"
+  short_description: "Light game and cinematic Blender scenes"
+  default_prompt: "Use $blender-lighting to handle the lighting for this Blender request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Workflow Router"
+  short_description: "Route Blender work to the right specialties"
+  default_prompt: "Use $blender-workflow-router to handle the workflow router for this Blender request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Export"
+  short_description: "Deliver assets to Unity, Unreal, Godot, or files"
+  default_prompt: "Use $blender-export to handle the export for this Blender request."

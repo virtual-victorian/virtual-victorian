@@ -1,0 +1,26 @@
+<!-- Consolidated from the former `blender-style-direction` skill. -->
+
+
+# Cartoon Style
+
+Bold shapes. Graphic color. Readability over realism.
+
+## When to Use
+- Cartoon games / animated props and characters
+- Exaggerated silhouettes and expressions
+- When anime cel language is too specific
+
+## Tenets
+1. Silhouette first
+2. Exaggerated proportions
+3. Limited palette, bold accents
+4. Soft or graphic shading (project choice)
+5. Detail in shapes, not micro-PBR
+
+## Handoff
+`blender-character-modeling` / `blender-prop-modeling` → `blender-material-authoring` → `blender-look-development`
+
+## Reference Guide
+| Topic | Reference |
+|-------|-----------|
+| Shape language | `references/cartoon-shape-language.md` |

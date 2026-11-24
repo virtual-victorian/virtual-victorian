@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender LOD Generation"
+  short_description: "Create and validate levels of detail"
+  default_prompt: "Use $blender-lod-generation to handle the lod generation for this Blender request."

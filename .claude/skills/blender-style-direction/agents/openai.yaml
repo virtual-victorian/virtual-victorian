@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Style Direction"
+  short_description: "Route visual styles to focused reference guides"
+  default_prompt: "Use $blender-style-direction to handle the style direction for this Blender request."
